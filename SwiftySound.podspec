@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.social_media_url   = 'https://www.facebook.com/Moonlight-Apps-146257068893019/'
 
   s.ios.deployment_target = '8.0'
-  s.osx.deployment_target = '10.9'
+  s.osx.deployment_target = '10.10'
   s.tvos.deployment_target = '9.0'
   s.source       = { :git => 'https://github.com/adamcichy/SwiftySound.git', :tag => s.version }
 
